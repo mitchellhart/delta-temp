@@ -1,0 +1,20 @@
+{
+  "name": "particle-servo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellhart/delta-temp.git"
+  },
+  "author": "Mitchell Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchellhart/delta-temp/issues"
+  },
+  "homepage": "https://github.com/mitchellhart/delta-temp#readme"
+}
